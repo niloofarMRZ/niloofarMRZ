@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 🌱 I’m graduated in Electronic from Amirkabir University of Technology
+
 🔭 I’m currently working in the field of data science
+
 👀 I’m interested in Machine Learning and its various application
+
 💞️ I’m looking to collaborate on every filels of Deep Learning an Machine Learning especially NLP
+
 📫 How to reach me: niloofaramz@gmail.com
 <!--
 **niloofarMRZ/niloofarMRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
